@@ -2,7 +2,7 @@
 
 <h2>🤓 About Me</h2>
 
-- I am a 21 year old tech enthusiast. 🤠
+- I am a 22 year old tech enthusiast. 🤠
 - I am a Computer Science graduate from Indraprastha College for Women, DU. 🏫 
 - I am currently pursuing Masters in Computational Science and Applications from Banaras Hindu University. 👨‍🎓
 - I have a keen interest in Web and Android Development. 💻 📱
