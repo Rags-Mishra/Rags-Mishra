@@ -17,12 +17,14 @@
 
 
 
-<h2>📈 Ragini's Github Stats</h2>
 
-<a href="http://www.github.com/Rags-Mishra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rags-Mishra&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📊 GitHub Stats
 
-[![Ragini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rags-Mishra&theme=dracula)](https://github.com/Rags-Mishra/github-readme-activity-graph)
+![Rags-Mishra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rags-Mishra&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=171717&title_color=0891b2&text_color=ffffff&icon_color=0891b2)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rags-Mishra&theme=dracula&background=171717&ring=0891b2&fire=0891b2&stroke=ffffff&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rags-Mishra&layout=compact&theme=dracula&bg_color=171717&title_color=0891b2&text_color=ffffff)
 
 
 
