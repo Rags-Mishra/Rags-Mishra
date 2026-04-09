@@ -19,12 +19,11 @@
 
 
 ## 📊 GitHub Stats
-
-![Rags-Mishra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rags-Mishra&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=171717&title_color=0891b2&text_color=ffffff&icon_color=0891b2)
+![Ragini's GitHub stats](https://github-readme-stats-eta-lyart-93.vercel.app/api?username=Rags-Mishra&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=171717&title_color=0891b2&text_color=ffffff&icon_color=0891b2)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rags-Mishra&theme=dracula&background=171717&ring=0891b2&fire=0891b2&stroke=ffffff&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rags-Mishra&layout=compact&theme=dracula&bg_color=171717&title_color=0891b2&text_color=ffffff)
+![Top Langs](https://github-readme-stats-eta-lyart-93.vercel.app/api/top-langs/?username=Rags-Mishra&layout=compact&theme=dracula&bg_color=171717&title_color=0891b2&text_color=ffffff)
 
 
 
